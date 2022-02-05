@@ -5,6 +5,10 @@ dependencies:
   - python
   - numpy
   - pip
+  - r-base
+  - r-tidyverse
+  - r-dplyr
+  - r-ggpubr
   - pip:
     - nbgitpuller
     - sphinx-gallery
